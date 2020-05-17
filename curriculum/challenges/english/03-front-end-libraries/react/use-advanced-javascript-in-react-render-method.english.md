@@ -8,7 +8,7 @@ forumTopicId: 301415
 
 ## Description
 <section id='description'>
-In previous challenges, you learned how to inject JavaScript code into JSX code using curly braces, <code>{ }</code>, for tasks like accessing props, passing props, accessing state, inserting comments into your code, and most recently, styling your components. These are all common use cases to put JavaScript in JSX, but they aren't the only way that you can utilize JavaScript code in your React components.
+In previous challenges, you learned how to inject JavaScript code into JSX code using curly braces, <code>{ }</code>, for tasks like accessing props, passing props, accessing state, inserting comments into your code, and, most recently, styling your components. These are all common use cases to put JavaScript in JSX, but they aren't the only way that you can utilize JavaScript code in your React components.
 You can also write JavaScript directly in your <code>render</code> methods, before the <code>return</code> statement, <strong><em>without</em></strong> inserting it inside of curly braces. This is because it is not yet within the JSX code. When you want to use a variable later in the JSX code <em>inside</em> the <code>return</code> statement, you place the variable name inside curly braces.
 </section>
 
